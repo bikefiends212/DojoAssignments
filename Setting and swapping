@@ -1,0 +1,10 @@
+function myName()
+{
+console.log('Suzanne');
+}
+function myNumber()
+{
+console.log(42)
+}
+
+myName();
